@@ -31,19 +31,35 @@ If you are new, you should start with high school level and eventually level up 
 
 - [Pointers for REAL dummies](http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/) - This is how I finally understood pointers when I was 12 years old. GREAT guide and it will teach you about C and what is memory.
 - [Fl33p's CS:S bunnyhop hack tutorial (YT)](https://www.youtube.com/watch?v=RiS-j_ecG0A) - A bit outdated but this is what helped me finally understand how to use a debugger and Cheat Engine and Visual Studio. The explanations are not 100% accurate but most importantly it is really beginner friendly for noobs
-- [Reverse Engineering discord](https://discord.com/invite/weKN5wb)
 - [godbolt.org Compiler Explorer](godbolt.org/) - Good to learn what code looks like when it gets compiled
 - [Reverse Engineering Stack Exchange](reverseengineering.stackexchange.com/) - Good place to figure out how to do something in IDA Pro.
+- [osdev wiki](https://wiki.osdev.org/Expanded_Main_Page) - Has some outdated or inaccurate info, but usually a good starting point.
+
+# Discord servers
+
+Remember to be nice, don't be rude or annoying, etc. Act like an adult.
+
+>>> **I don't endorse any of these servers personally. These are just some well-known servers.** <<<
+
+- [Reverse Engineering discord](https://discord.com/invite/weKN5wb) - **do NOT discuss game hacking in this Discord or you will be banned.**
+- [Capture the Flag discord](https://discord.gg/ArjWjvctft) - CTF community
+- [Secret club public discord](https://discord.com/invite/BT764JJDhe) - Administered by Carl Schou and Derek Rynd.
+- [gynvael's server](https://discord.gg/QAwfE5R) - administered by gynvael.
+- [Day0 podcast server](https://discord.gg/dvZN4csDFx) - administered by zi and Specter.
+- [Awesome Fuzzing](https://discord.gg/XaX2m2msQh) - fuzzing enthusiasts.
+- [Back.engineering server](https://discord.gg/VHDrMC8NSM) - administered by xeroxz.
+- [osdev server](https://discord.gg/RnCtsqD) - I don't know this server, but it's popular.
 
 # Blogs (in no particular order)
 - [Google Project Zero blog](googleprojectzero.blogspot.com) - Cutting-edge vulnerability research.
-- [Secret Club](https://secret.club) - Syndication on various innovative research on reverse engineering, esp. game hacking.
+- [Secret Club](https://secret.club) - Syndicated publication on various innovative research on reverse engineering, esp. game hacking.
 - [Can Bölük's blog](https://can.ac) - Hypervisors, Windows internals, anticheats. He is a legendary reverse engineer
-- [Derek Rynd and Aidan Khoury's blog (revers.engineering)](https://revers.engineering) - Hypervisors, Windows internals, Anticheats. They are a lot smarter than me
+- [Derek Rynd and Aidan Khoury's blog (revers.engineering)](https://revers.engineering) - Hypervisors, Windows internals, Anticheats. They are both way smarter than me
 - [Sinaei's blog](https://rayanfam.com/) - Hypervisor from scratch
 - [Orange Tsai's blog](https://blog.orange.tw/) - Lot of cutting-edge research on a broad range of topics. He is totally an infosec legend
 - [Alex Ionescu and Yarden Shafir's blog](https://windows-internals.com/pages/internals-blog/) - Windows internals, systems, kernel.
 - [Rolf Rolles' blog](https://www.msreverseengineering.com/blog/) - Reverse engineering, program analysis, (de)obfuscation, IDA Pro
+- [back.engineering](https://back.engineering/) - Mainly xeroxz's blog but also features some syndicated articles.
 - [lcamtuf's blog](https://lcamtuf.blogspot.com/) - Fuzzing and systems.
 - [Halvarflake's blog](https://addxorrol.blogspot.com/) - Various topics in systems and security.
 - [Trail of Bits blog](https://blog.trailofbits.com/) - State-of-the-art research on cryptography, program analysis, bug hunting
