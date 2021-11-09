@@ -39,7 +39,7 @@ If you are new, you should start with high school level and eventually level up 
 
 Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 
-⚠️⚠️⚠️ **DISCLAIMER: I DO NOT ENDORSE any of these servers personally, their administrators, or any of the discussion that may occur in them. I deny any particular knowledge or awareness of the day-to-day occurrences and contents of conversations on these servers. This is simply a list of some well-known, popular infosec related servers. The views, opinions, and words of the participants or administrators on the servers below bear NO REFLECTION whatsoever on my own personal opinions, values, or beliefs.** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **DISCLAIMER: I DO NOT ENDORSE any of these servers personally, their administrators, or any of the discussion that may occur in them. I deny any particular knowledge or awareness of the day-to-day occurrences and contents of conversations on these servers. In other words, this is simply a list of some well-known, popular infosec related servers. The views, opinions, and words of the participants or administrators on the servers below bear NO REFLECTION whatsoever on my own personal opinions, values, or beliefs.** ⚠️⚠️⚠️
 
 - [Reverse Engineering discord](https://discord.com/invite/weKN5wb) - **do NOT discuss game hacking in this Discord or you will be banned.**
 - [Capture the Flag discord](https://discord.gg/ArjWjvctft) - CTF community
