@@ -39,7 +39,7 @@ If you are new, you should start with high school level and eventually level up 
 
 Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 
->>> **I don't endorse any of these servers personally. These are just some well-known servers.** <<<
+⚠️⚠️⚠️ **I don't endorse any of these servers personally. These are just some well-known servers.** ⚠️⚠️⚠️
 
 - [Reverse Engineering discord](https://discord.com/invite/weKN5wb) - **do NOT discuss game hacking in this Discord or you will be banned.**
 - [Capture the Flag discord](https://discord.gg/ArjWjvctft) - CTF community
