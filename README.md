@@ -70,7 +70,7 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 - [Travis Downs' blog](https://travisdowns.github.io/) - Systems, comppilers, and performance.
 - [Krebs on Security](krebsonsecurity.com) - Mainstream InfoSec news.
 - [Bruce Schneier's blog](www.schneier.com) - Cryptography and privacy news.
-- [Hex-Rays blog](https://hex-rays.com/blog/), - Tips and tricks for IDA Pro
+- [Hex-Rays blog](https://hex-rays.com/blog/) - Tips and tricks for IDA Pro
 
 # Other InfoSec newsletters, zines, and publications
 
