@@ -1,6 +1,6 @@
 # List of InfoSec resources
 
-I'm just going to put good stuff I find here. The list isn't comprehensive or exhaustive. This is mainly just a FAQ so I can just link people here for my own laziness.
+I get this question a lot so I compiled a big list that I can just link people to directly.
 
 # Where to start?
 
