@@ -39,7 +39,7 @@ If you are new, you should start with high school level and eventually level up 
 
 Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 
-⚠️⚠️⚠️ **I don't endorse any of these servers personally. These are just some well-known servers.** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **DISCLAIMER: I do not endorse any of these servers personally or any of the discussion may occur on them. I deny any particular knowledge or awareness of the day-to-day occurrences and contents of conversations on these servers. This is simply a list of some well-known, popular infosec related servers. The views, opinions, and words of the participants on the servers below bear NO REFLECTION on my own personal opinions, values, or beliefs.** ⚠️⚠️⚠️
 
 - [Reverse Engineering discord](https://discord.com/invite/weKN5wb) - **do NOT discuss game hacking in this Discord or you will be banned.**
 - [Capture the Flag discord](https://discord.gg/ArjWjvctft) - CTF community
@@ -51,6 +51,9 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 - [osdev server](https://discord.gg/RnCtsqD) - I don't know this server, but it's popular.
 
 # Blogs (in no particular order)
+
+⚠️⚠️⚠️ **DISCLAIMER: I do not whatsoever endorse the personal character of any of the listed authors. The blogs listed below are chosen SOLELY based on the merits and quality of the publications and research ONLY. In other words, this is simply a list of well-known infosec authors. The views, opinions, and writing of the blogs below or their authors bear NO REFLECTION on my own personal opinions, values, or beliefs.** ⚠️⚠️⚠️
+
 - [Google Project Zero blog](googleprojectzero.blogspot.com) - Cutting-edge vulnerability research.
 - [Secret Club](https://secret.club) - Syndicated publication on various innovative research on reverse engineering, esp. game hacking.
 - [Can Bölük's blog](https://can.ac) - Hypervisors, Windows internals, anticheats. He is a legendary reverse engineer
