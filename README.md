@@ -21,6 +21,7 @@ If you are new, you should start with high school level and eventually level up 
 
 # Binary Exploitation
 
+- [pwn.college](https://pwn.college/) - Guide written by Zardus and adam doupe, former organisers of DEF CON CTF
 - [Gatech Sslab CS 6265: InfoSec Lab](https://tc.gts3.org/cs6265/2021/) - GREAT resource on intro to binex.
 - [how2heap](https://github.com/shellphish/how2heap) - intro to glibc heap exploitation
 - [Dhaval Kapil's heap explotation guide](https://heap-exploitation.dhavalkapil.com/) - intro to glibc heap exploitation. slightly outdated but still good
