@@ -26,6 +26,7 @@ If you are new, you should start with high school level and eventually level up 
 - [Dhaval Kapil's heap explotation guide](https://heap-exploitation.dhavalkapil.com/) - intro to glibc heap exploitation. slightly outdated but still good
 - http://pwnable.kr/ - Great resource and created by my former colleague [Daehee87](https://daehee87.github.io/)
 - http://pwnable.tw/ - more pwnables
+- [Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - a vulnerable driver you can learn to pwn drivers with
 
 # Game hacking and reversing
 
