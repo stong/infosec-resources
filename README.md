@@ -56,7 +56,7 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 
 ⚠️⚠️⚠️ **DISCLAIMER: I DO NOT ENDORSE the personal character of any of the listed authors. The blogs listed below are chosen SOLELY based on the merits and quality of the publications and research ONLY. In other words, this is simply a list of well-known infosec authors. The views, opinions, and writing of the blogs below or their authors bear NO REFLECTION whatsoever on my own personal opinions, values, or beliefs. This list is provided as a USEFUL RESOURCE only.** ⚠️⚠️⚠️
 
-- [Google Project Zero blog](googleprojectzero.blogspot.com) - Cutting-edge vulnerability research.
+- [Google Project Zero blog](https://googleprojectzero.blogspot.com) - Cutting-edge vulnerability research.
 - [Secret Club](https://secret.club) - Syndicated publication on various innovative research on reverse engineering, esp. game hacking.
 - [Can Bölük's blog](https://can.ac) - Hypervisors, Windows internals, anticheats. He is a legendary reverse engineer
 - [Derek Rynd and Aidan Khoury's blog (revers.engineering)](https://revers.engineering) - Hypervisors, Windows internals, Anticheats. They are both way smarter than me
@@ -68,10 +68,10 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 - [lcamtuf's blog](https://lcamtuf.blogspot.com/) - Fuzzing and systems.
 - [Halvarflake's blog](https://addxorrol.blogspot.com/) - Various topics in systems and security.
 - [Trail of Bits blog](https://blog.trailofbits.com/) - State-of-the-art research on cryptography, program analysis, bug hunting
-- [Bruce Dawson's blog](randomascii.wordpress.com) - Systems, compilers, and performance.
+- [Bruce Dawson's blog](https://randomascii.wordpress.com) - Systems, compilers, and performance.
 - [Travis Downs' blog](https://travisdowns.github.io/) - Systems, compilers, and performance.
-- [Krebs on Security](krebsonsecurity.com) - Mainstream InfoSec news.
-- [Bruce Schneier's blog](www.schneier.com) - Cryptography and privacy news.
+- [Krebs on Security](https://krebsonsecurity.com) - Mainstream InfoSec news.
+- [Bruce Schneier's blog](https://www.schneier.com) - Cryptography and privacy news.
 - [Hex-Rays blog](https://hex-rays.com/blog/) - Tips and tricks for IDA Pro
 
 # Other InfoSec newsletters, zines, and publications
@@ -79,14 +79,14 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 - [LWN](https://lwn.net/) - Linux internals
 - [/r/securityCreators/](https://www.reddit.com/r/securityCreators/)
 - [zSecurity Twitter](https://twitter.com/_zsecurity_)
-- [phrack magazine](phrack.org/)
+- [phrack magazine](https://phrack.org/)
 
 # Favorite Tools
 
 I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 
 ## Must-have, essential tools
-- [Python 3](python.org) - hacker's best friend
+- [Python 3](https://python.org) - hacker's best friend
 - [x64dbg](https://github.com/x64dbg/x64dbg) - Windows userland debugger
 - [Process Hacker](https://processhacker.sourceforge.io/)
 - IDA Pro (or Ghidra) - disassembler
