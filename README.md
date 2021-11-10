@@ -69,7 +69,7 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 - [Halvarflake's blog](https://addxorrol.blogspot.com/) - Various topics in systems and security.
 - [Trail of Bits blog](https://blog.trailofbits.com/) - State-of-the-art research on cryptography, program analysis, bug hunting
 - [Bruce Dawson's blog](randomascii.wordpress.com) - Systems, compilers, and performance.
-- [Travis Downs' blog](https://travisdowns.github.io/) - Systems, comppilers, and performance.
+- [Travis Downs' blog](https://travisdowns.github.io/) - Systems, compilers, and performance.
 - [Krebs on Security](krebsonsecurity.com) - Mainstream InfoSec news.
 - [Bruce Schneier's blog](www.schneier.com) - Cryptography and privacy news.
 - [Hex-Rays blog](https://hex-rays.com/blog/) - Tips and tricks for IDA Pro
