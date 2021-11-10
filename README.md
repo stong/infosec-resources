@@ -34,7 +34,7 @@ If you are new, you should start with high school level and eventually level up 
 - [Pointers for REAL dummies](http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/) - This is how I finally understood pointers when I was 12 years old. GREAT guide and it will teach you about C and what is memory.
 - [Fl33p's CS:S bunnyhop hack tutorial (YT)](https://www.youtube.com/watch?v=RiS-j_ecG0A) - A bit outdated but this is what helped me finally understand how to use a debugger and Cheat Engine and Visual Studio. The explanations are not 100% accurate but most importantly it is really beginner friendly for noobs
 - [godbolt.org Compiler Explorer](godbolt.org/) - Good to learn what code looks like when it gets compiled
-- [Reverse Engineering Stack Exchange](reverseengineering.stackexchange.com/) - Good place to figure out how to do something in IDA Pro.
+- [Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/) - Good place to figure out how to do something in IDA Pro.
 - [osdev wiki](https://wiki.osdev.org/Expanded_Main_Page) - Has some outdated or inaccurate info, but usually a good starting point.
 
 # Discord servers
