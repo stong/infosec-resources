@@ -114,6 +114,7 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - [Detect It Easy (DIE)](https://github.com/horsicq/Detect-It-Easy) - detect compiler and packers. I don't often use this since I can usually recognize by experience
 - [Sage](https://www.sagemath.org/) - for cryptography
 - [Proxifier](https://www.proxifier.com/) - basically proxychains for Windows
+- [Krakatau](https://github.com/Storyyeller/Krakatau) - Good java disassembler
 
 ## Hex-Rays plugins
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - must-have
