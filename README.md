@@ -95,7 +95,7 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - [CFF explorer](https://ntcore.com/?page_id=388) - PE editor
 - Windows Calculator, MSpaint, and notepad
 - [diffchecker.com](https://www.diffchecker.com/)
-- [cyberchef](https://www.cyberchef.in/) - data processing multitool
+- [cyberchef](https://gchq.github.io/CyberChef/) - data processing multitool
 - [Sublime Text](https://www.sublimetext.com/)
 - [Sysinternals suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 - [mitmproxy](https://mitmproxy.org/)
