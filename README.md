@@ -28,7 +28,7 @@ If you are new, you should start with high school level and eventually level up 
 - http://pwnable.tw/ - more pwnables
 - https://microcorruption.com/login
 - [Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) - a vulnerable driver you can learn to pwn drivers with
-- [exploit.education](http://exploit.education) - Learn exploit dev, binary analysis
+- [exploit.education](http://exploit.education) - Learn exploit dev, binary analysis (Suggested by @gautammenghani, not vetted by me)
 
 # Game hacking and reversing
 
