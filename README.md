@@ -41,6 +41,7 @@ If you are new, you should start with high school level and eventually level up 
 # Smart contracts / blockchain
 
 - [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset)
+- ETHSecurity Telegram channel
 
 # Discord servers
 
