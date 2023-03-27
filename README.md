@@ -38,6 +38,10 @@ If you are new, you should start with high school level and eventually level up 
 - [Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/) - Good place to figure out how to do something in IDA Pro.
 - [osdev wiki](https://wiki.osdev.org/Expanded_Main_Page) - Has some outdated or inaccurate info, but usually a good starting point.
 
+# Smart contracts / blockchain
+
+- [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset)
+
 # Discord servers
 
 Remember to be nice, don't be rude or annoying, etc. Act like an adult.
