@@ -35,6 +35,7 @@ If you are new, you should start with high school level and eventually level up 
 - [Pointers for REAL dummies](http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/) - This is how I finally understood pointers when I was 12 years old. GREAT guide and it will teach you about C and what is memory.
 - [Fl33p's CS:S bunnyhop hack tutorial (YT)](https://www.youtube.com/watch?v=RiS-j_ecG0A) - A bit outdated but this is what helped me finally understand how to use a debugger and Cheat Engine and Visual Studio. The explanations are not 100% accurate but most importantly it is really beginner friendly for noobs
 - [godbolt.org Compiler Explorer](godbolt.org/) - Good to learn what code looks like when it gets compiled
+- [dogbolt.org Decompiler Explorer](https://dogbolt.org/) - "interactive online decompiler which shows equivalent C-like output of decompiled programs from many popular decompilers"
 - [Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/) - Good place to figure out how to do something in IDA Pro.
 - [osdev wiki](https://wiki.osdev.org/Expanded_Main_Page) - Has some outdated or inaccurate info, but usually a good starting point.
 
@@ -79,6 +80,8 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 - [Krebs on Security](https://krebsonsecurity.com) - Mainstream InfoSec news.
 - [Bruce Schneier's blog](https://www.schneier.com) - Cryptography and privacy news.
 - [Hex-Rays blog](https://hex-rays.com/blog/) - Tips and tricks for IDA Pro
+- [modexp](https://modexp.wordpress.com/) - Posts about Computer Security
+- [tinycrypt](https://tinycrypt.wordpress.com/) -  Posts about Cryptography
 
 # Other InfoSec newsletters, zines, and publications
 
@@ -121,6 +124,8 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - [Sage](https://www.sagemath.org/) - for cryptography
 - [Proxifier](https://www.proxifier.com/) - basically proxychains for Windows
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Good java disassembler
+- [indetectables-toolkit](https://github.com/indetectables-net/toolkit) - Program(collection) which includes un-packers, sys-utils(...)
+- [embeddedsw ](https://www.embeddedsw.net/) - Steganography, Cryptography And Obfuscation tools
 
 ## Hex-Rays plugins
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - must-have
@@ -144,3 +149,4 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - Hacker's Delight - bit hacking tricks, you see them used by compilers often. Division constants
 - [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) - popular compilers textbook
 - [SSA book](https://github.com/pfalcon/ssabook) - resource for advanced topics on single static assignment form in compilers
+- [Cipher Source Codes)](https://www.embeddedsw.net/Cipher_Reference_Home.html) - Embeddedsw hosts tools and stuff about general Cryptography
