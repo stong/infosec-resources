@@ -125,7 +125,8 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - [Proxifier](https://www.proxifier.com/) - basically proxychains for Windows
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Good java disassembler
 - [indetectables-toolkit](https://github.com/indetectables-net/toolkit) - Program(collection) which includes un-packers, sys-utils(...)
-- [embeddedsw ](https://www.embeddedsw.net/) - Steganography, Cryptography And Obfuscation tools
+- [embeddedsw](https://www.embeddedsw.net/) - Steganography, Cryptography And Obfuscation tools
+- [cryptool](https://www.cryptool.org/en/) - Handy tool for Cryptography
 
 ## Hex-Rays plugins
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - must-have
