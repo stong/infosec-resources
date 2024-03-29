@@ -62,6 +62,8 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 
 ⚠️⚠️⚠️ **DISCLAIMER: I DO NOT ENDORSE the personal character of any of the listed authors. The blogs listed below are chosen SOLELY based on the merits and quality of the publications and research ONLY. In other words, this is simply a list of well-known infosec authors. The views, opinions, and writing of the blogs below or their authors bear NO REFLECTION whatsoever on my own personal opinions, values, or beliefs. This list is provided as a USEFUL RESOURCE only.** ⚠️⚠️⚠️
 
+- [Zellic blog]([https](https://www.zellic.io/blog/)) - Blockchain security and cryptography research
+- [Gbps's blog](https://ctf.re/) - Good reverse engineering and low-level systems articles.
 - [Google Project Zero blog](https://googleprojectzero.blogspot.com) - Cutting-edge vulnerability research.
 - [Secret Club](https://secret.club) - Syndicated publication on various innovative research on reverse engineering, esp. game hacking.
 - [Can Bölük's blog](https://can.ac) - Hypervisors, Windows internals, anticheats. He is a legendary reverse engineer
