@@ -18,6 +18,7 @@ If you are new, you should start with high school level and eventually level up 
 - CSAW RED (high school level) - Formerly known as CSAW HSF
 - CSAW CTF (college level)
 - HackTheBox - I never did this, but it's popular
+* [HackSimulator](https://chatgpt.com/g/g-jnT7HlNeK-hacksimulator) is a GPT created by [MarkCyber](https://github.com/MarkCyber) in which chatGPT 4 acts as a CTF. This GPT will ask for your experience level and what you would like to improve on, before simulating a machine/application for you to hack into, using the chatbox as the place to input terminal commands. Since this is through AI, it changes and adjusts based on your experience level and you can ask for help if you are stuck.
 
 # Binary Exploitation
 
