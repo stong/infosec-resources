@@ -18,6 +18,11 @@ If you are new, you should start with high school level and eventually level up 
 - CSAW RED (high school level) - Formerly known as CSAW HSF
 - CSAW CTF (college level)
 - HackTheBox - I never did this, but it's popular
+- [Flare-On](https://flare-on.com/): Annual reversing CTF
+
+# Blockchain / Web3
+
+- [Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset/)
 
 # Binary Exploitation
 
