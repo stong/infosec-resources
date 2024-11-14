@@ -19,6 +19,7 @@ If you are new, you should start with high school level and eventually level up 
 - CSAW CTF (college level)
 - HackTheBox - I never did this, but it's popular
 - [Flare-On](https://flare-on.com/): Annual reversing CTF
+- [CyberPython](https://pythoncyber.go.ro) A hands on learning platform in CTF style
 
 # Blockchain / Web3
 
