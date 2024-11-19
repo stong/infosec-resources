@@ -21,10 +21,16 @@ If you are new, you should start with high school level and eventually level up 
 - CSAW CTF (college level)
 - HackTheBox - I never did this, but it's popular
 - [Flare-On](https://flare-on.com/): Annual reversing CTF
+- PlaidCTF (warning: hard)
+- AngstromCTF, TJCTF, UMDCTF, TUCTF, UIUCTF. Look for CTFs organized by college students or people somewhat above your skill level but not too far
+- Other great CTFs in no particular order, some may be missing (may be hard): DiceCTF, Sekai CTF, Midnight Sun CTF, Google CTF, Blue Water CTF
 
 # Blockchain / Web3
 
-- [Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset/)
+- [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset/)
+- [Zellic blog](https://www.zellic.io/blog/) - Blockchain security and cryptography research
+- [Paradigm CTF](https://ctf.paradigm.xyz/) - [chals](https://github.com/paradigmxyz/paradigm-ctf-2023)
+- ETHSecurity Telegram channel
 
 # Binary Exploitation
 
@@ -44,12 +50,6 @@ If you are new, you should start with high school level and eventually level up 
 - [godbolt.org Compiler Explorer](godbolt.org/) - Good to learn what code looks like when it gets compiled
 - [Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/) - Good place to figure out how to do something in IDA Pro.
 - [osdev wiki](https://wiki.osdev.org/Expanded_Main_Page) - Has some outdated or inaccurate info, but usually a good starting point.
-
-# Smart contracts / blockchain
-
-- [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset)
-- [Zellic blog](https://www.zellic.io/blog/) - Blockchain security and cryptography research
-- ETHSecurity Telegram channel
 
 # Discord servers
 
@@ -71,6 +71,11 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 ⚠️⚠️⚠️ **DISCLAIMER: I DO NOT ENDORSE the personal character of any of the listed authors. The blogs listed below are chosen SOLELY based on the merits and quality of the publications and research ONLY. In other words, this is simply a list of well-known infosec authors. The views, opinions, and writing of the blogs below or their authors bear NO REFLECTION whatsoever on my own personal opinions, values, or beliefs. This list is provided as a USEFUL RESOURCE only.** ⚠️⚠️⚠️
 
 - [Zellic blog](https://www.zellic.io/blog/) - Blockchain security and cryptography research
+- [chompie1337's blog](https://chomp.ie/Home) - [twitter](https://twitter.com/chompie1337)
+- [Qualys Advisories](https://www.qualys.com/research/security-advisories/) - 1337 security research
+- [Back Engineering](https://back.engineering/blog) - misc reversing stuff
+- [Raymond Chen's Blog](https://devblogs.microsoft.com/oldnewthing/) - windows internals
+- [Quarkslab Blog](https://blog.quarkslab.com/) - Awesome security engineering, systems and systems research
 - [Gbps's blog](https://ctf.re/) - Good reverse engineering and low-level systems articles.
 - [Google Project Zero blog](https://googleprojectzero.blogspot.com) - Cutting-edge vulnerability research.
 - [Secret Club](https://secret.club) - Syndicated publication on various innovative research on reverse engineering, esp. game hacking.
@@ -92,10 +97,10 @@ Remember to be nice, don't be rude or annoying, etc. Act like an adult.
 
 # Other InfoSec newsletters, zines, and publications
 
+- [phrack magazine](https://phrack.org/) - famous hacker zine
 - [LWN](https://lwn.net/) - Linux internals
 - [/r/securityCreators/](https://www.reddit.com/r/securityCreators/)
 - [zSecurity Twitter](https://twitter.com/_zsecurity_)
-- [phrack magazine](https://phrack.org/)
 
 # Favorite Tools
 
@@ -131,6 +136,7 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - [Sage](https://www.sagemath.org/) - for cryptography
 - [Proxifier](https://www.proxifier.com/) - basically proxychains for Windows
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Good java disassembler
+- [Mitmproxy](https://mitmproxy.org/) - Burp suite for broke people
 
 ## Hex-Rays plugins
 - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - must-have
@@ -142,6 +148,8 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 ## x64dbg plugins
 - [ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Anti-anti-debug
 - [xHotspots](https://github.com/ThunderCls/xHotSpots) - Sometimes useful for reversing GUI shit
+- [OllyDumpEx](https://low-priority.appspot.com/ollydumpex/)
+- In general, refer to this comprehensive [list](https://github.com/x64dbg/x64dbg/wiki/Plugins)
 
 # Lectures and slides
 
@@ -154,3 +162,4 @@ I am a Windows user so I mainly use Windows tools. Sorry Linux users.
 - Hacker's Delight - bit hacking tricks, you see them used by compilers often. Division constants
 - [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) - popular compilers textbook
 - [SSA book](https://github.com/pfalcon/ssabook) - resource for advanced topics on single static assignment form in compilers
+- [MSDN](https://learn.microsoft.com/en-us/windows/win32/api/) - win32 and windows internals
