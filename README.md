@@ -2,6 +2,8 @@
 
 I get this question a lot so I compiled a big list that I can just link people to directly.
 
+Submissions are welcome. Please make a PR and I will try to get around to it when I have time.
+
 # Where to start?
 
 - [How to start hacking? The ultimate two path guide to information security. - /r/hacking](https://www.reddit.com/r/hacking/comments/a3oicn/how_to_start_hacking_the_ultimate_two_path_guide/)
