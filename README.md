@@ -24,6 +24,7 @@ If you are new, you should start with high school level and eventually level up 
 - PlaidCTF (warning: hard)
 - AngstromCTF, TJCTF, UMDCTF, TUCTF, UIUCTF. Look for CTFs organized by college students or people somewhat above your skill level but not too far
 - Other great CTFs in no particular order, some may be missing (may be hard): DiceCTF, Sekai CTF, Midnight Sun CTF, Google CTF, Blue Water CTF
+- [CyberPython](https://pythoncyber.go.ro) A hands on learning platform in CTF style
 
 # Blockchain / Web3
 
